@@ -1,0 +1,15 @@
+﻿.show-menu{
+    display: block;
+}
+
+.user-button{
+    margin-left: .40em;
+}
+
+.top-row a {
+    margin-left: 0;
+}
+
+.dropdowm-item:hover {
+    background-color: rgba(255, 255, 255, 0.1);
+}
